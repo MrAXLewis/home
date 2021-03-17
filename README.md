@@ -9,7 +9,7 @@
 
 <!-- PROJECT LOGO -->
 
-[![Site preview](/public/social-image.png)](https://mraxlewis.github.io)
+[![Site preview](/public/social-image.png)](https://mraxlewis.github.io/home)
 
 ## Technology Stack 
 
